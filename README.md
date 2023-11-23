@@ -13,8 +13,8 @@ Um piano virtual ao qual se aperta em suas teclas para emitir sons.
 
 ## 🖼 Visão geral
 
-![Game Imagem](./docs/piano.png)
+![Piano Imagem](./docs/piano.png)
 
 ## 📁 Referências
 
-- [DIO Jogo da Memória](https://github.com/felipeAguiarCode/js-music-keyboard-virtual)
+- [DIO Piano Digital](https://github.com/felipeAguiarCode/js-music-keyboard-virtual)
