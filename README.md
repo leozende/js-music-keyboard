@@ -9,12 +9,12 @@ Um piano virtual ao qual se aperta em suas teclas para emitir sons.
 ## 🛠 Recursos utilizados
 
 - HTML e CSS para a estrutura da página e aparência.
-- JavaScript para o funcionamento das teclas do piano.
+- JavaScript para o funcionamento do piano.
 
 ## 🖼 Visão geral
 
-![Piano Imagem](./docs/yugioh.png)
+![Piano Imagem](./docs/piano.png)
 
 ## 📁 Referências
 
-- [DIO JavaScript Yu-Gi-Oh](https://github.com/digitalinnovationone/js-yugioh-assets)
+- [DIO Piano Digital](https://github.com/felipeAguiarCode/js-music-keyboard-virtual)
