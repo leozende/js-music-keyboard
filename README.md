@@ -13,8 +13,8 @@ Um piano virtual ao qual se aperta em suas teclas para emitir sons.
 
 ## 🖼 Visão geral
 
-![Piano Imagem](./docs/piano.png)
+![Piano Imagem](./docs/yugioh.png)
 
 ## 📁 Referências
 
-- [DIO Piano Digital](https://github.com/felipeAguiarCode/js-music-keyboard-virtual)
+- [DIO JavaScript Yu-Gi-Oh](https://github.com/digitalinnovationone/js-yugioh-assets)
