@@ -9,7 +9,7 @@ Um piano virtual ao qual se aperta em suas teclas para emitir sons.
 ## 🛠 Recursos utilizados
 
 - HTML e CSS para a estrutura da página e aparência.
-- JavaScript para o funcionamento do piano.
+- JavaScript para o funcionamento das teclas do piano.
 
 ## 🖼 Visão geral
 
